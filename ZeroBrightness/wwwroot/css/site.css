@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: 'VT323';
+    font-size: 22px;
+    text-decoration: none;
+    background-image: url(../images/bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+    a:hover {
+        text-decoration: none;
+    }
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#soundcloudframe {
+    padding-top: 20px;
+    width: 60%;
+    height: 350px;
+}
+
+#mainbody {
+    text-align:center;
+    font-family: 'VT323';
+    font-size: 36px;
+}
+
+.patreon {
+    text-align: center;
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+#sociallinks {
+    text-align: center;
+    padding-bottom:10px;     
+}
+
+    #sociallinks:hover {
+        text-decoration: none;
+    }
+
+.sociallogo {
+    text-align: center;
+    width: 60%;
+    width: 40px;
+}
+
+#logoheadline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+} 
