@@ -27,3 +27,4 @@ C:\Users\t-g-l\source\repos\ZeroBrightness\ZeroBrightness\obj\Debug\netcoreapp2.
 C:\Users\t-g-l\source\repos\ZeroBrightness\ZeroBrightness\obj\Debug\netcoreapp2.1\ZeroBrightness.pdb
 C:\Users\t-g-l\source\repos\ZeroBrightness\ZeroBrightness\obj\Debug\netcoreapp2.1\ZeroBrightness.csproj.CopyComplete
 C:\Users\t-g-l\source\repos\ZeroBrightness\ZeroBrightness\obj\Debug\netcoreapp2.1\ZeroBrightness.csprojAssemblyReference.cache
+C:\Users\t-g-l\source\repos\ZeroBrightness\ZeroBrightness\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
